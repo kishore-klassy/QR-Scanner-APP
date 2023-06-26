@@ -13,6 +13,9 @@ The QR Code Scanner App is a Flutter-based mobile application that allows users 
 - **Visual Feedback:** Get visual feedback on successful scans through a SnackBar message.
 - **Simple Interface:** The app features a straightforward and intuitive user interface for seamless QR code scanning.
 
+## Demo app apk
+
+[Click here](https://github.com/kishore-klassy/QR-Scanner-APP/blob/main/apks/qr-scanner.apk) to install/download a working version of this application.
 
 ## Installation
 
